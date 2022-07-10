@@ -26,6 +26,7 @@ symbols = {
     "x": "-..-",
     "y": "-.--",
     "z": "--..",
+    "0": "-----"
 }
 
 #the user has to tyoe a word
